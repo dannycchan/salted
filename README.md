@@ -1,3 +1,5 @@
+> This is a fork of Jason Rodriguez' [original repo](https://github.com/rodriguezcommaj/salted), featured in his A List Apart article, [Can Email Be Responsive?](http://alistapart.com/article/can-email-be-responsive/) Feel free to submit issues over on <a href="https://github.com/rodriguezcommaj/salted/issues">Jason's repo</a>.
+
 # Salted
 ## A responsive email template
 
